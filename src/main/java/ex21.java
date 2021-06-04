@@ -19,7 +19,10 @@ Challenges
     Use a map or dictionary to remove the switch statement from the program.
     Support multiple languages. Prompt for the language at the beginning of the program.
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex21 {
